@@ -13,9 +13,22 @@ For experiences:
 
 ## Postman_collection
 ![image](https://github.com/user-attachments/assets/73e54eef-91a3-457e-93a2-45c5504ae522)
+Education:
+
+POST:
+![image](https://github.com/user-attachments/assets/81ed0f6e-e065-4fdb-8dfa-f13c7634a2c4)
+![image](https://github.com/user-attachments/assets/dbf22fe3-c54f-4ae9-90d7-e9bc1db67c70)
+![image](https://github.com/user-attachments/assets/d309b693-9524-46a0-82c1-02707ace5bb6)
+
+GET:
+![image](https://github.com/user-attachments/assets/9b2c1290-6d6c-4431-99da-a81ad9a65730)
+![image](https://github.com/user-attachments/assets/c49c5cca-cddb-4e67-8339-c617755e7568)
+
+Experience:
+POST:
 
 
-##🔧 Running the Backend Locally
+## Running the Backend Locally
 To run the backend server locally and connect it with the MongoDB database (portfolio_backend), follow these steps:
 
 1. Clone the Repository
